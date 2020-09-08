@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploStaticAAC", "EjemploStaticAAC\EjemploStaticAAC.csproj", "{362CAD1E-48FF-430A-B85B-3C9A719B975B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362CAD1E-48FF-430A-B85B-3C9A719B975B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362CAD1E-48FF-430A-B85B-3C9A719B975B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362CAD1E-48FF-430A-B85B-3C9A719B975B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362CAD1E-48FF-430A-B85B-3C9A719B975B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC58F7B-85B2-492D-8D7C-4E1AC3500333}
+	EndGlobalSection
+EndGlobal
