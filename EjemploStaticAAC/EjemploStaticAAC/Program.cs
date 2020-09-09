@@ -11,10 +11,11 @@ namespace EjemploStaticAAC
         public static int ResultadoSuma;
         static void Main(string[] args)
         {
-            Console.WriteLine("Entra al main");            
-            
-            ResultadoSuma = Calculadora.Suma(1, 3);
-            Console.WriteLine(ResultadoSuma);
+            Console.WriteLine("Entra al main");
+
+            //ResultadoSuma = Calculadora.Suma(1, 3);
+            //Console.WriteLine(ResultadoSuma);
+            Console.WriteLine(Calculadora.Suma(1, 3));
             Console.WriteLine("Mi : "+Calculadora.PI);
 
             Console.ReadLine();//Enter para continuar;
