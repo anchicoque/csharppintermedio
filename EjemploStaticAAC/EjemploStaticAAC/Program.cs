@@ -18,6 +18,7 @@ namespace EjemploStaticAAC
             Console.WriteLine(Calculadora.Suma(1, 3));
             Console.WriteLine("Mi : "+Calculadora.PI);
 
+            Console.WriteLine("Enter para salir");
             Console.ReadLine();//Enter para continuar;
         }
     }
